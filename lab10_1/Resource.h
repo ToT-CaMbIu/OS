@@ -1,7 +1,3 @@
-//{{NO_DEPENDENCIES}}
-// Microsoft Visual C++ generated include file.
-// Used by WindowsProject5x1.rc
-
 #define IDS_APP_TITLE			103
 
 #define IDR_MAINFRAME			128
