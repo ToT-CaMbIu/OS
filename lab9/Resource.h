@@ -1,7 +1,3 @@
-﻿//{{NO_DEPENDENCIES}}
-// Включаемый файл, созданный в Microsoft Visual C++.
-// Используется LR9.rc
-
 #define IDS_APP_TITLE			103
 
 #define IDR_MAINFRAME			128
